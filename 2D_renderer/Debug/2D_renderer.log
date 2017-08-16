@@ -1,0 +1,4 @@
+﻿  magna_carta_opus.cpp
+c:\visual_studios_projects\2d_renderer\real_time_plotter\2d_renderer\magna_carta_opus.cpp(9): warning C4007: 'WinMain': must be '__stdcall'
+  2D_renderer.vcxproj -> C:\visual_studios_projects\2D_renderer\Real_Time_Plotter\Debug\2D_renderer.exe
+  2D_renderer.vcxproj -> C:\visual_studios_projects\2D_renderer\Real_Time_Plotter\Debug\2D_renderer.pdb (Partial PDB)
